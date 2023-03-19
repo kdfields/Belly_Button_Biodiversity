@@ -1,4 +1,4 @@
-# Belly_Button_Biodiversity
+# Belly Button Biodiversity
 
 ## Project Overview
 The purpose of this project was to create an HTML dashboard using JavaScript code to extract data from a JSON file using the D3.js JavaScript library so that project volunteers can identify the top 10 bacterial species in their belly buttons.  Volunteers need to know this information in the event Improbable Beef identfies a species as a candidate to manufacture synthetic beef. When an individual volunteers' ID is chosen from a dropdown menu, the dashboard will display a horizontal bar chart that displays the top 10 bacterial species (OTUs), a bubble chart to show bacteria cultures by sample, and a gauge chart that displays the weekly washing frequecy's value.  The goal is for project volunteers to be able to identify whether that particular bacterial species is present in their navels.
@@ -51,11 +51,11 @@ The purpose of this project was to create an HTML dashboard using JavaScript cod
 ## Analysis Summary
 The team was tasked with completing an HTML dashboard using our knowledge of JavaScript, Plotly, and D3.js to create a horizontal bar chart that displays the top 10 bactrial species (OTUs), a bubble chart to show bacteria cultures by sample, and gauge chart that displays the weekly washing frequecy's value when an individual's ID is selected in the dropdown menu.
 
-+ Horizontal Bar Chart ![image](https://user-images.githubusercontent.com/113741694/226200716-b5c713b4-4fab-42da-9329-36a6b63d2061.png)
+![image](https://user-images.githubusercontent.com/113741694/226200716-b5c713b4-4fab-42da-9329-36a6b63d2061.png)
 
-+ Bubble Chart ![image](https://user-images.githubusercontent.com/113741694/226200737-9587fd5b-e69a-4582-a6b5-d3bfec61c4bd.png)
+![image](https://user-images.githubusercontent.com/113741694/226200737-9587fd5b-e69a-4582-a6b5-d3bfec61c4bd.png)
 
-+ Gauge Chart ![image](https://user-images.githubusercontent.com/113741694/226200782-d7fe86b1-052d-46c1-b11f-d6eaf8406dca.png)
+![image](https://user-images.githubusercontent.com/113741694/226200782-d7fe86b1-052d-46c1-b11f-d6eaf8406dca.png)
 
 The dashboard is a success and Improbable Beef's volunteers now have immediate feedback on whether the presence of specific bacterial species will be found in their belly buttons.
 
